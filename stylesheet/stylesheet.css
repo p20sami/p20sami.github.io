@@ -1,7 +1,7 @@
-* This style sheet was created by Scott Nesbitt. Feel free to use it, but please leave this comment in the file. */
+/* This style sheet was created by Scott Nesbitt. Feel free to use it, but please leave this comment in the file. */
 
 
-body {font-family: verdana;
+body {font-family: sans-serif;
       font-size: small;
       background: #000000;
       padding: 1em;
@@ -10,15 +10,18 @@ body {font-family: verdana;
 
 p {margin-left: 20px;
    margin-right: 35px;
-   color:#00ff00}
+   color: #00ff00}
 
-h1 {font-size: x-large}
+h1 {font-size: x-large;
+    text-align: center}
 
 h2 {margin-left: 10px;
-    font-size: large}
+    font-size: large;
+    text-align: center}
 
 h3 {margin-left: 15px;
-    font-size: medium}
+    font-size: medium;
+    tet-align: center}
 
 tt {font-family: monospace;
     font-weight: bold}
@@ -29,17 +32,17 @@ code {font-family: monospace;
 pre {font-family: monospace;
      font-weight: bold}
 
-strong {font-family: verdana}
+strong {font-family: serif}
 
-b {font-family: verdana}
+b {font-family: serif}
 
-em {font-family: verdana}
+em {font-family: serif}
 
-i {font-family: verdana}
+i {font-family: serif}
 
-li {font-family: verdana}
+li {font-family: sans-serif}
 
-a:link {color: blue;
+a:link {color: #00ff00;
         text-decoration: none}
 
 a:active {color: blue;
@@ -47,10 +50,11 @@ a:active {color: blue;
           font-weight: bold;
           background-color: black}
 
-a:visited {color: black;
+a:visited {color: blue;
           text-decoration: none}
 
 hr {color: red}
 
-td {font-family: verdana;
+td {font-family: sans-serif;
     font-size: small}
+
