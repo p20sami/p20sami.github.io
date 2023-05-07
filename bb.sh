@@ -103,7 +103,7 @@ global_variables() {
     body_begin_file_index=""
     # CSS files to include on every page, f.ex. css_include=('main.css' 'blog.css')
     # leave empty to use generated
-    css_include=()
+    css_include=('stylesheet/stylesheet.css)
     # HTML files to exclude from index, f.ex. post_exclude=('imprint.html 'aboutme.html')
     html_exclude=()
 

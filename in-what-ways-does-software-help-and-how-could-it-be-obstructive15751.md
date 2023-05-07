@@ -17,14 +17,14 @@ cars on roads, helping drivers on long journeys as they now can rest while the c
 to the selected destination using sensors, software, cameras and GPS. In the airline industry, software has
 become an irreplaceable integral part of each aircraft. Autopilots, warning systems like GPWS, TCAS, engine
 monitoring and advisories to airmen are parts of an aircraft that flying without would be outright dangerous
-and deadly. For example, the Ground Proximity Warning Sensor (GPWS) measures the aircrafts radio altitude
+and deadly. For example, the Ground Proximity Warning System (GPWS) measures the aircrafts radio altitude
 relative to the mean sea level and can warn pilots if there is terrain ahead, or if the aircraft is very
-close to the ground. The Traffic Collision Avoiding System (TCAS) can warn two or more aircraft at the same
+close to the ground. The Traffic Collision Avoidance System (TCAS) can warn two or more aircraft at the same
 time if they are on a collision course mid-air and gives instructions to both aircraft like "Traffic ahead,
 ascend, ascend now" to one aircraft and "Traffic ahead, descend, descend now" to the other aircraft so as to
 avoid a collision. It is truly amazing what some lines of code can do to save lives!
 
-...But could software replace us, be invasive or causing trouble?
+...But could software replace us, be invasive or cause trouble?
 Well, automation has began replacing people's jobs for a number of years now. Take for example a car manufacturing plant.
 In these days, it is common for robotic arms and such to assemble car parts as a machine can do a more precise work than
 a human counterpart, be faster and cost less, about what every manufacturer wants to for his business. Automatic check counters
@@ -33,8 +33,8 @@ So software has begun fading out jobs that would otherwise have to be worked by 
 unemployment because it is much more efficient for a machine to do a human's work. In the future, AI is projected to take
 lots of jobs away from people, causing some turmoil about how ethical is it for a machine to replace a person.
 
-Can software be invasive? Yes, in some ways. Malware, spyware and other malicious software can act on your behalf or spy on you
-or outright locking your system and asking for ransom to unlock it. But in aircraft, a prominent case, was the MCAS. This
+Can software be invasive? Yes, in some ways. Malware, spyware and other malicious software can act on your behalf, spy on you
+or outright lock your system and ask for ransom to unlock it. But in aircraft, a prominent case, was the MCAS. This
 system was designed to correct an aircraft's angle of attack in case it got too steep and was used in the Boeing 737 MAX. The
 result was two airplane crashes which were directly linked with this system, as a AOA sensor had malfunctioned, sending erroneous data
 about the AOA to the system thus making it believe that the plane was about to stall. So, while the plane was flying perfectly normal,
