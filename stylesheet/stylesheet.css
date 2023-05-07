@@ -1,15 +1,16 @@
 * This style sheet was created by Scott Nesbitt. Feel free to use it, but please leave this comment in the file. */
 
 
-body {font-family: sans-serif;
+body {font-family: verdana;
       font-size: small;
-      background: #ffffff;
+      background: #000000;
       padding: 1em;
       margin: auto;
       max-width: 55em;}
 
 p {margin-left: 20px;
-   margin-right: 35px}
+   margin-right: 35px;
+   color:#00ff00}
 
 h1 {font-size: x-large}
 
@@ -28,15 +29,15 @@ code {font-family: monospace;
 pre {font-family: monospace;
      font-weight: bold}
 
-strong {font-family: serif}
+strong {font-family: verdana}
 
-b {font-family: serif}
+b {font-family: verdana}
 
-em {font-family: serif}
+em {font-family: verdana}
 
-i {font-family: serif}
+i {font-family: verdana}
 
-li {font-family: sans-serif}
+li {font-family: verdana}
 
 a:link {color: blue;
         text-decoration: none}
@@ -46,10 +47,10 @@ a:active {color: blue;
           font-weight: bold;
           background-color: black}
 
-a:visited {color: red;
+a:visited {color: black;
           text-decoration: none}
 
 hr {color: red}
 
-td {font-family: sans-serif;
+td {font-family: verdana;
     font-size: small}
